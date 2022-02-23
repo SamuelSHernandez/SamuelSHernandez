@@ -27,6 +27,8 @@ languages: https://github.com/Ileriayo/markdown-badges#languages
 ### Database
 ![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
+### Certifications
+![Google Cloud](https://www.cloudskillsboost.google/public_profiles/96ad637f-cef7-476d-8028-cca73d1b9f97)
 <!--
 
 
