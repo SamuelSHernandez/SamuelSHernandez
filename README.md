@@ -11,7 +11,7 @@ languages: https://github.com/Ileriayo/markdown-badges#languages
 
 - 🎓 I'm Samuel Hernandez, a senior **Computer Science** student at Walla Walla University
 - 🖥 Currently I work as a **Web Developer** at _[ASWWU WEB](https://github.com/ASWWU-Web)_
-- 🌱 Currently learning: **SITL simulation with [ArduPilot](https://ardupilot.org/)**
+- 🌱 Currently learning: **Markdown and LaTeX**
 - 👨‍💻 I enjoy learning new technologies, my areas of interest are **Computer Vision**, **Cloud Computing** and **Data Analysis**
 - 🛹 Outside of tech, I like to skate, play chess, and paint.
 
