@@ -13,7 +13,7 @@ languages: https://github.com/Ileriayo/markdown-badges#languages
 - 🖥 Currently I work as a **Web Developer** at _[ASWWU WEB](https://github.com/ASWWU-Web)_
 - 👨‍💻 I enjoy learning new technologies, my areas of interest are **Computer Vision**, **Cloud Computing** and **Data Analysis**
 - 🛹 Outside of tech, I like to skate, play chess, and paint.
-
+<!-- 
 ## 🛠️ Languages
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -25,7 +25,7 @@ languages: https://github.com/Ileriayo/markdown-badges#languages
 
 ### Database
 ![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
+ -->
 ### Certifications
 ![Google Cloud](https://www.cloudskillsboost.google/public_profiles/96ad637f-cef7-476d-8028-cca73d1b9f97)
 <!--
