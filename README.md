@@ -1,4 +1,4 @@
-# Hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<!-- # Hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -->
 
 <!--
 Inspired: https://github.com/SanchezPepe/sanchezpepe
@@ -7,7 +7,7 @@ Inspired: https://github.com/SanchezPepe/sanchezpepe
 languages: https://github.com/Ileriayo/markdown-badges#languages
 -->
 
-## 🚀 About Me
+# 🚀 About Me
 
 - 🎓 I'm Samuel Hernandez, a senior **Computer Science** student at Walla Walla University
 - 🖥 Currently I work as a **Web Developer** at _[ASWWU WEB](https://github.com/ASWWU-Web)_
