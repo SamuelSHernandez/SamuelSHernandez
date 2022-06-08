@@ -10,8 +10,9 @@ languages: https://github.com/Ileriayo/markdown-badges#languages
 # 🚀 About Me
 
 - 🎓 I'm Samuel Hernandez, a senior **Computer Science** student at Walla Walla University
-- 🖥 Currently I work as a **Web Developer** at _[ASWWU WEB](https://github.com/ASWWU-Web)_
+- 🖥 Currently I work as a **Web Developer** at _[ASWWU WEB](https://github.com/ASWWU-Web)_ and _[First Sage Page](https://firstpage)_
 - 👨‍💻 I enjoy learning new technologies, my areas of interest are **Computer Vision**, **Cloud Computing** and **Data Analysis**
+- 📓 Currently learning: Reinforcement learning with my [FormulaAI](https://github.com/SamuelSHernandez/FormulaAI) project.
 - 🛹 Outside of tech, I like to skate, play chess, and paint.
 <!-- 
 ## 🛠️ Languages
@@ -28,12 +29,12 @@ languages: https://github.com/Ileriayo/markdown-badges#languages
  -->
 ### Certifications
 ![Google Cloud](https://www.cloudskillsboost.google/public_profiles/96ad637f-cef7-476d-8028-cca73d1b9f97)
-<!--
+
 
 
 ## 🔗 Links
-[![portfolio]()
-[![linked-in]()
+[![portfolio](https://samuel-hernandez.com/)]
+[![linked-in](https://www.linkedin.com/in/samuel-hernandez-6340861a6/)]
 
--->
+
 
