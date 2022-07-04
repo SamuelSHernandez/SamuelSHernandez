@@ -33,8 +33,8 @@ languages: https://github.com/Ileriayo/markdown-badges#languages
 
 
 ## 🔗 Links
-- ![portfolio](https://samuel-hernandez.com/)
-- ![linked-in](https://www.linkedin.com/in/samuel-hernandez-6340861a6/)
+<!-- - ![portfolio](https://samuel-hernandez.com/) -->
+- ![Linked-In](https://www.linkedin.com/in/samuel-hernandez-6340861a6/)
 
 
 
