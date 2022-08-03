@@ -13,7 +13,7 @@ languages: https://github.com/Ileriayo/markdown-badges#languages
 - 🖥 Currently I work as a **Web Developer** at [ASWWU WEB](https://github.com/ASWWU-Web) and [First Page Sage](https://firstsagepage.com)
 - 👨‍💻 I enjoy learning new technologies, my areas of interest are **Computer Vision**, **Vehicle Autonomy** and **Data Analysis**
 - 📓 Currently learning: Reinforcement learning with my [FormulaAI](https://github.com/SamuelSHernandez/FormulaAI) project.
-- 🛹 Outside of tech, I like to skate, play chess, paint, and learn physics.
+- 🛹 Outside of tech, I like to skate, play chess, paint, and travel.
 <!-- 
 ## 🛠️ Languages
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
