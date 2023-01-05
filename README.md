@@ -11,7 +11,7 @@ languages: https://github.com/Ileriayo/markdown-badges#languages
 
 - 🎓 I'm Samuel Hernandez, a senior **Computer Science** student at Walla Walla University
 - 🖥 Currently I work as a **Web Developer** at [First Page Sage](https://firstsagepage.com)
-- 👨‍💻 I enjoy learning new technologies, my areas of interest are **Computer Vision**, **Vehicle Autonomy** and **Data Analysis**
+- 👨‍💻 I enjoy learning new technologies, my areas of interest are **Computer Vision**, **Web Development** and **Data Analysis**
 - 📓 Currently learning: Reinforcement learning with my [FormulaAI](https://github.com/SamuelSHernandez/FormulaAI) project.
 - 🛹 Outside of tech, I like to skate, play chess, paint, and travel.
 <!-- 
