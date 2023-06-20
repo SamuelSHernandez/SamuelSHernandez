@@ -1,6 +1,6 @@
 # 🚀 About Me
 
-- 🎓 I'm Samuel Hernandez, a senior **Computer Science** student at Walla Walla University, minoring in **Mathematics**
+- 🎓 I'm Samuel Hernandez, a **Software Engineer** graduating from Walla Walla University with a B.S. In Computer Science and minoring in **Mathematics**
 - 🖥 Currently I work as a **Software Developer** with expertise in Python, React, Node.js, TailwindCSS, and Google Cloud
 - 👨‍💻 I enjoy learning new technologies and seeking opportunities to create meaningful impact in the tech industry
 - 🌱 Currently learning: Reinforcement learning with my [FormulaAI](https://github.com/SamuelSHernandez/FormulaAI) project
