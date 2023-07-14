@@ -20,7 +20,7 @@ function About() {
             <div>
                 <Typography variant="body1" sx={{ maxWidth: '430px', textAlign: 'justify' }}>
                     My name is <b>Samuel Hernandez</b>. I am a <i>machine learning engineer</i> and web <i>developer</i> based in California, USA.
-                    I am passionate about cutting-edge technology, pixel-perfect, beautiful interfaces, and leveraging machine
+                    I am passionate about cutting-edge technology, pixel-perfect interfaces, and leveraging machine
                     learning to solve complex problems. With expertise in both machine learning and web development, I strive to
                     create innovative solutions that combine the power of data-driven insights and elegant user experiences.
                 </Typography>
