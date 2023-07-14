@@ -5,8 +5,6 @@ import { MemoryRouter, Route, Routes, Link } from 'react-router-dom';
 import MenuIcon from '@mui/icons-material/Menu';
 import CloseIcon from '@mui/icons-material/Close';
 
-
-
 import Home from '../pages/Home';
 import About from '../pages/About';
 import Projects from '../pages/Projects';
