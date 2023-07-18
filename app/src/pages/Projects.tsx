@@ -56,6 +56,7 @@ function ProjectDetails({ project, onPrev, onNext }: { project: Project; onPrev:
                     <CardActions>
                         <Button size="small" color="primary" href={project.githubLink} target="_blank">
                             GitHub
+                            
                         </Button>
                     </CardActions>
                 </Card>
