@@ -3,8 +3,8 @@
 - 🎓 I'm Samuel Hernandez, a **Software Engineer** graduating from Walla Walla University with a B.S. In Computer Science and minoring in **Mathematics**
 - 🖥 Currently I work as a **Software Developer** with expertise in Python, React, Node.js, TailwindCSS, and Google Cloud
 - 👨‍💻 I enjoy learning new technologies and seeking opportunities to create meaningful impact in the tech industry
-- 🌱 Currently learning: Reinforcement learning with my [FormulaAI](https://github.com/SamuelSHernandez/FormulaAI) project
-- 🛹 Outside of tech, I explore my creative side through painting, skateboarding, and mastering chess
+- 🌱 Currently learning: [Reinforcement learning with my FormulaAI project](https://github.com/SamuelSHernandez/FormulaAI)
+- 🛹 Outside of tech, I explore my creative side through oil painting, chess, and my [YouTube channel]([https://www.youtube.com/your-channel-link](https://www.youtube.com/channel/UCZRfg86zEdzWJxwWs898yrA))
 
 ## 🛠️ Skills
 
@@ -27,3 +27,4 @@
 
 ## 🔗 Links
 - ![LinkedIn](https://www.linkedin.com/in/samuel-hernandez-6340861a6/)
+- ![YouTube]([https://www.youtube.com/your-channel-link](https://www.youtube.com/channel/UCZRfg86zEdzWJxwWs898yrA)https://www.youtube.com/channel/UCZRfg86zEdzWJxwWs898yrA)
