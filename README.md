@@ -4,7 +4,7 @@
 - 🖥 Currently I work as a **Software Developer** with expertise in Python, React, Node.js, TailwindCSS, and Google Cloud
 - 👨‍💻 I enjoy learning new technologies and seeking opportunities to create meaningful impact in the tech industry
 - 🌱 Currently learning: [Reinforcement learning with my FormulaAI project](https://github.com/SamuelSHernandez/FormulaAI)
-- 🛹 Outside of tech, I explore my creative side through oil painting, chess, and my [YouTube channel]([https://www.youtube.com/your-channel-link](https://www.youtube.com/channel/UCZRfg86zEdzWJxwWs898yrA))
+- 🛹 Outside of tech, I explore my creative side through oil painting, chess, and my [YouTube channel]([https://www.youtube.com/@ScienceTime)
 
 ## 🛠️ Skills
 
@@ -34,5 +34,5 @@
 [Google Cloud](https://www.cloudskillsboost.google/public_profiles/96ad637f-cef7-476d-8028-cca73d1b9f97/badges/670823)
 
 ## 🔗 Links
-- ![LinkedIn](https://www.linkedin.com/in/samuel-hernandez)
-- ![YouTube](https://www.youtube.com/@ScienceTime/)
+- [LinkedIn](https://www.linkedin.com/in/samuel-hernandez)
+- [YouTube](https://www.youtube.com/@ScienceTime/)
