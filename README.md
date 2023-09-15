@@ -34,5 +34,5 @@
 [Google Cloud](https://www.cloudskillsboost.google/public_profiles/96ad637f-cef7-476d-8028-cca73d1b9f97/badges/670823)
 
 ## 🔗 Links
-- ![LinkedIn](https://www.linkedin.com/in/samuel-hernandez-6340861a6/)
-- ![YouTube]([https://www.youtube.com/your-channel-link](https://www.youtube.com/channel/UCZRfg86zEdzWJxwWs898yrA)https://www.youtube.com/channel/UCZRfg86zEdzWJxwWs898yrA)
+- ![LinkedIn](https://www.linkedin.com/in/samuel-hernandez)
+- ![YouTube](https://www.youtube.com/@ScienceTime/)
