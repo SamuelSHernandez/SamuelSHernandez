@@ -31,8 +31,8 @@
 
 
 ### Certifications
-[Google Cloud](https://www.cloudskillsboost.google/public_profiles/96ad637f-cef7-476d-8028-cca73d1b9f97/badges/670823)
+[Google Cloud](https://www.cloudskillsboost.google/public_profiles/96ad637f-cef7-476d-8028-cca73d1b9f97)
 
 ## 🔗 Links
-- [LinkedIn](https://www.linkedin.com/in/samuel-hernandez)
-- [YouTube](https://www.youtube.com/@ScienceTime/)
+[LinkedIn](https://www.linkedin.com/in/samuel-s-hernandez)
+[YouTube](https://www.youtube.com/@ScienceTime/)
