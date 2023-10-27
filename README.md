@@ -1,9 +1,9 @@
 # 🚀 About Me
 
 - 🎓 I'm Samuel Hernandez, a **Software Engineer** graduating from Walla Walla University with a B.S. In Computer Science and minoring in **Mathematics**
-- 🖥 Currently I work as a **Software Developer** with expertise in Python, React, Node.js, TailwindCSS, and Google Cloud
+- 🖥 Currently I work as a **Web Applications Developer** with expertise in Python, React, Node.js, TailwindCSS, and Google Cloud working for the General Conference of Seventh-Day Adventists
 - 👨‍💻 I enjoy learning new technologies and seeking opportunities to create meaningful impact in the tech industry
-- 🌱 Currently learning: [Reinforcement learning with my FormulaAI project](https://github.com/SamuelSHernandez/FormulaAI)
+- 🌱 Currently learning: Advanced SQL
 - 🛹 Outside of tech, I explore my creative side through oil painting, chess, and my [YouTube channel]([https://www.youtube.com/@ScienceTime)
 
 ## 🛠️ Skills
