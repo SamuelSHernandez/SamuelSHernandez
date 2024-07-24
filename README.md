@@ -2,7 +2,7 @@
 
 - 🖥 Currently working as a **Web Applications Developer** with expertise in C#, Python, React, Node.js, TailwindCSS, and T-SQL at the General Conference of Seventh-Day Adventists
 - 👨‍💻 I enjoy learning new technologies and seeking opportunities to create meaningful impact in the tech industry
-- 🌱 Currently learning: Database architecture and C#
+- 🌱 Currently learning: Database architecture and C# ABP Blazor framework
 - 🎓 Graduated from Walla Walla University with a **B.S. in Computer Science** and a minor in **Mathematics**
 - 🛹 Outside of tech, I explore my creative side through oil painting, chess, and my [YouTube channel](https://www.youtube.com/@ScienceTime)
 
