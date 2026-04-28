@@ -1,6 +1,6 @@
 # About
 
-I'm a Software Engineer at the General Conference of Seventh-day Adventists, where I work on an internal platform used by the International Personnel Resources & Services (IPRS) department to support missionaries. I do full-stack development in C#, Blazor, and ABP Framework, and handle the SQL Server side for our department.
+I'm a Web Applications Developer (Enterprise Internal Platforms) at the General Conference of Seventh-day Adventists, where I work on an internal platform used by the International Personnel Resources & Services (IPRS) department to support missionaries. I do full-stack development in C#, Blazor, and ABP Framework, and handle the SQL Server side for our department.
 
 I lead a small team of developers and own the application end-to-end: gathering requirements directly from business users, making the architectural decisions (module boundaries, data models, migration strategy), managing the Azure DevOps board, reviewing and approving PRs, deciding when features ship, and supporting them in production.
 
